@@ -8,3 +8,7 @@ function getUserData(id) {
     db3: db3
   };
 }
+
+//const returnedValue = await central(d);
+
+const returnedValue = await vault(1);
